@@ -4,7 +4,7 @@
 			"name": "Hogwarts Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "BROOKLYN",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
@@ -27,7 +27,7 @@
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Sycamore",
+					"station": "BROOKLYN",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
@@ -40,7 +40,7 @@
 			"name": "Orient Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "BROOKLYN",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
